@@ -1,2 +1,2 @@
 # House-prediction
-https://house-prediction-wctwgkvhjgqgnkktz9tyuc.streamlit.app/
+https://stream-lit-house-rate-cd6wdxnzjwq8zae6ivhr2x.streamlit.app/
